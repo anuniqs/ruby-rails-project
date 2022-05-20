@@ -1,0 +1,9 @@
+https://rubyinstaller.org/
+
+PS C:\Users\uniqs> ruby -v
+
+PS C:\Users\uniqs> gem install rails
+
+PS C:\Users\uniqs> rails -v
+
+PS D:\GITRepos> rails new ruby-rails-project --database=postgresql
